@@ -9,4 +9,6 @@ The diagram illustrates:
 - Load balancers  
 - Common patterns in microservices architecture
 
-👉 [View C4 Diagram](https://github.com/edmnikolaeva/pet_store/blob/main/C4_lucky.jpg)
+---
+
+### 👉 [View C4 Diagram](https://github.com/edmnikolaeva/pet_store/blob/main/C4_lucky.jpg)
