@@ -17,7 +17,7 @@ This repository presents a C4 model developed as part of the work on adding new 
 
 ---
 
-### 👉 [C4 Model](https://github.com/edmnikolaeva/pet_store/blob/main/C4_lucky.jpg)
+### Main artifact 👉 [C4 Model](https://github.com/edmnikolaeva/pet_store/blob/main/C4_lucky.jpg)
 
 ---
 
