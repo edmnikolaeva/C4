@@ -1,4 +1,4 @@
-# C4 Model – System Analysis Examples
+# C4 Model
 
 <table>
 <tr>
